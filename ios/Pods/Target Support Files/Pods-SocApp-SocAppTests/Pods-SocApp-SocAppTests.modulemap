@@ -1,0 +1,6 @@
+module Pods_SocApp_SocAppTests {
+  umbrella header "Pods-SocApp-SocAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
